@@ -1,3 +1,5 @@
 Verified in staging 7/24/2013
 
 [Finishes #53826317]
+
+Testing to see if git push (with refs in [origin] section will trigger event if no new commits are present.
